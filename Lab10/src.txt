@@ -1,0 +1,2 @@
+Programs should be interactive with appropriate prompt messages, error messages if any
+and descriptive messages for outputs.
